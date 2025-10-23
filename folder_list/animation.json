@@ -1,0 +1,13 @@
+{
+    "type" : "folder_list",
+    "title" : "Animation",
+    "added" : "10/10/24",
+    "modified" : "10/10/24",
+    "folders" : [
+        {
+            "title" : "Rotten Tomatoes - The 140 Essential Animated Movies To Watch",
+            "id" : "rottentomatoes-essential_animated_movies",
+            "type" : "movie_list"
+        }
+    ]
+}
