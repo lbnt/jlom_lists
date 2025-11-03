@@ -63,6 +63,26 @@
             "title" : "TimeOut - The 100 Best Movies Of All Time To Watch Right Now",
             "id" : "timeout-the_100_best_movies_of_all_time",
             "type" : "movie_list"
+        },
+        {
+            "title" : "1001 Movies You Must See Before You Die 1902-1952",
+            "id" : "1001_movies_you_must_see_before_you_die_1902-1952",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "1001 Movies You Must See Before You Die 1953-1969",
+            "id" : "1001_movies_you_must_see_before_you_die_1953-1969",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "1001 Movies You Must See Before You Die 1970-1986",
+            "id" : "1001_movies_you_must_see_before_you_die_1970-1986",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "1001 Movies You Must See Before You Die 1987-2020",
+            "id" : "1001_movies_you_must_see_before_you_die_1987-2020",
+            "type" : "movie_list"
         }
     ]
 }
