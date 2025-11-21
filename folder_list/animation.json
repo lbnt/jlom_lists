@@ -8,6 +8,11 @@
             "title" : "Rotten Tomatoes - The 140 Essential Animated Movies To Watch",
             "id" : "rottentomatoes-essential_animated_movies",
             "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Animation Top 50",
+            "id" : "IMDb's_animation_top_50",
+            "type" : "movie_list"
         }
     ]
 }

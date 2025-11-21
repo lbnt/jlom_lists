@@ -75,6 +75,16 @@
             "type" : "folder_list"
         },
         {
+            "title" : "Thriller",
+            "id" : "thriller",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Drama",
+            "id" : "drama",
+            "type" : "folder_list"
+        },
+        {
             "title" : "Other",
             "id" : "other",
             "type" : "folder_list"

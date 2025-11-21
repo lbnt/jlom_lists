@@ -38,6 +38,11 @@
             "title" : "Variety - The 50 Best Action Movies of All Time",
             "id" : "variety-the_50_best_action_movies_of_all_time",
             "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Action Top 50",
+            "id" : "IMDb's_action_top_50",
+            "type" : "movie_list"
         }
     ]
 }

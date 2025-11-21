@@ -8,6 +8,11 @@
             "title" : "Rotten Tomatoes - 84 Best Fantasy Movies Of All Time",
             "id" : "rottentomatoes-best_fantasy_movies_of_all_time",
             "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Fantasy Top 50",
+            "id" : "IMDb's_fantasy_top_50",
+            "type" : "movie_list"
         }
     ]
 }

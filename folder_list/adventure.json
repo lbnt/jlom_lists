@@ -8,6 +8,11 @@
             "title" : "Rotten Tomatoes - 60 Essential Adventure Movies",
             "id" : "rottentomatoes-60_essential_adventure_movies",
             "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Adventure Top 50",
+            "id" : "IMDb's_adventure_top_50",
+            "type" : "movie_list"
         }
     ]
 }

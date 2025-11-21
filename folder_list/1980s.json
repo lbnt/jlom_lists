@@ -15,6 +15,11 @@
             "type" : "movie_list"
         },
         {
+            "title" : "IMDb's 1980s Top 50",
+            "id" : "IMDb's_1980s_top_50",
+            "type" : "movie_list"
+        },
+        {
             "title" : "Critics' Top 10 - 1980",
             "id" : "criticstop10-1980",
             "type" : "movie_list"

@@ -15,6 +15,11 @@
             "type" : "movie_list"
         },
         {
+            "title" : "IMDB's 1990s Top 50",
+            "id" : "IMDB's_1990s_top_50",
+            "type" : "movie_list"
+        },
+        {
             "title" : "Critics' Top 10 - 1990",
             "id" : "criticstop10-1990",
             "type" : "movie_list"

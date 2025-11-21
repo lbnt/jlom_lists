@@ -28,6 +28,21 @@
             "title" : "Variety - The 100 Best Horror Movies of All Time",
             "id" : "variety-the_100_best_horror_movies_of_all_time",
             "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Horror Top 50",
+            "id" : "IMDb's_horror_top_50",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Top 500 Horror Movies 1-250",
+            "id" : "IMDb's_top_500_horror_movies_1-250",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Top 500 Horror Movies 250-251",
+            "id" : "IMDb's_top_500_horror_movies_251-500",
+            "type" : "movie_list"
         }
     ]
 }
