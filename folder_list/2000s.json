@@ -10,11 +10,6 @@
             "type" : "movie_list"
         },
         {
-            "title" : "IMDb's 2000s Top 50",
-            "id" : "IMDb's_2000s_top_50",
-            "type" : "movie_list"
-        },
-        {
             "title" : "IMDB's 2000s Top 50",
             "id" : "IMDB's_2000s_top_50",
             "type" : "movie_list"
