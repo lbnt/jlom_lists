@@ -5,20 +5,14 @@
     "modified" : "24/04/24",
     "folders" : [
         {
-            "title" : "Rotten Tomatoes - All 96 Best Picture Winners",
-            "id" : "rottentomatoes-all_96_best_picture_winners",
-            "type" : "movie_list"
+            "title" : "Academy Awards - Oscars",
+            "id" : "academy_awards",
+            "type" : "folder_list"
         },
         {
-            "title" : "Rotten Tomatoes - Golden Globe Best Picture Winners",
-            "id" : "rottentomatoes-golden_globe_best_film_winners",
-            "type" : "movie_list"
-        }
-        ,
-        {
-            "title" : "Filmsite - Academy Awards Best Pictures",
-            "id" : "filmsite-academy_awards_best_pictures",
-            "type" : "movie_list"
+            "title" : "Golden Globes",
+            "id" : "golden_globes",
+            "type" : "folder_list"
         }
     ]
 }
