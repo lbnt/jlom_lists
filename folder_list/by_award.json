@@ -2,7 +2,7 @@
     "type" : "folder_list",
     "title" : "By award",
     "added" : "24/04/24",
-    "modified" : "24/04/24",
+    "modified" : "11/01/26",
     "folders" : [
         {
             "title" : "Academy Awards - Oscars",
@@ -12,6 +12,11 @@
         {
             "title" : "Golden Globes",
             "id" : "golden_globes",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Cannes Film Festival",
+            "id" : "cannes_film_festival",
             "type" : "folder_list"
         }
     ]
