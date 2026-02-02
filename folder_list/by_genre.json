@@ -80,11 +80,6 @@
             "type" : "folder_list"
         },
         {
-            "title" : "Drama",
-            "id" : "drama",
-            "type" : "folder_list"
-        },
-        {
             "title" : "Other",
             "id" : "other",
             "type" : "folder_list"

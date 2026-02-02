@@ -8,11 +8,6 @@
             "title" : "IMDb's Drama Top 50",
             "id" : "IMDb's_drama_top_50",
             "type" : "movie_list"
-        },
-        {
-            "title" : "Golden Globes - Best Motion Picture - Drama",
-            "id" : "golden_globes-best_motion_picture_drama",
-            "type" : "movie_list"
         }
     ]
 }
